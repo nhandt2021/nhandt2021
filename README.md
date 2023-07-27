@@ -1,4 +1,6 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=nhandt2021)](https://github.com/ryo-ma/github-profile-trophy)
+## Github tropies
+[![trophy](https://github-profile-trophy.vercel.app/?username=nhandt2021&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **nhandt2021/nhandt2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
